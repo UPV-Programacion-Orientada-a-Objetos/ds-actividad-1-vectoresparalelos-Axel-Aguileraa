@@ -54,4 +54,4 @@ int main() {
     archivo.close();
     std::cout << "Se cargaron " << nombres.size() << " atletas" << std::endl;
   
-    }
+              }
